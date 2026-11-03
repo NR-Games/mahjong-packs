@@ -1,0 +1,21 @@
+Mahjong Solitaire - music loops
+Copyright (c) 2026 Nik Rybak, NR Games. All rights reserved.
+
+The music loops in this repository and in its releases (files named <theme id>-<hash>.ogg and <theme id>-<hash>.nrgp, and any
+sound decoded from them) are proprietary works of NR Games. They are licensed only for use inside the game Mahjong Solitaire
+by NR Games, which downloads and plays them on the player's device.
+
+No other right is granted. Without prior written permission of NR Games you may not copy, download for any purpose other than
+the game's own download, decode, decrypt, record, extract, modify, publish, distribute, sell, sublicense, stream, broadcast,
+synchronize with video or images, use in any other game, app, video, livestream, podcast or other work, or use to train or
+evaluate any machine learning model, in whole or in part.
+
+Making these files available in a public repository is a technical means of delivery to the game only. It is not a
+publication under an open or free licence, it waives no right, and it grants no implied licence.
+
+The script fonts in this repository's releases (MahjongSerif*.otf) are not covered by this licence: they are licensed under
+the SIL Open Font License, Version 1.1, see OFL.txt.
+
+Requests for permission and notices of infringement: https://rybaknekyadnexru-cell.github.io/
+
+THE FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
